@@ -1,1 +1,1 @@
-# Azususu-Translate
+# Azususu-Translator
