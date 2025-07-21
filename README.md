@@ -15,5 +15,6 @@ Chế độ Fusion: Kết hợp Windows OCR và Tesseract để đạt hiệu qu
 
 Đóng góp và Báo lỗi !
 Bạn được khuyến khích đóng góp cho dự án này!
+
 Nếu có lỗi gì xảy ra hãy báo lỗi trên Discord:
 https://discord.gg/XduUv9zCux
