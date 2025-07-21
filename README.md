@@ -1,5 +1,3 @@
-Susu Translator
-
 Susu Translator là một ứng dụng dịch thuật và OCR (Nhận dạng ký tự quang học) mạnh mẽ dành cho Windows, được phát triển bằng Python và PyQt5. Ứng dụng này cho phép bạn dịch văn bản trực tiếp từ màn hình , rất hữu ích cho việc dịch game, hoặc bất kỳ nội dung nào bạn không thể sao chép trực tiếp.
 
 Tính năng chính
