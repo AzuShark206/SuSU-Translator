@@ -4,6 +4,7 @@ Tính năng chính
 Dịch thuật tức thì: Dịch văn bản từ màn hình của bạn chỉ với vài cú nhấp chuột hoặc phím tắt.
 
 Hỗ trợ nhiều công cụ OCR:
+Paddle OCR : Mạnh mẽ, Chính xác cao/
 
 Tesseract OCR: Công cụ OCR mã nguồn mở mạnh mẽ.
 
